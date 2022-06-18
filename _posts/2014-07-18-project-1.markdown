@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: porto.png
+img: Porto.png
 alt: image-alt
 project-date: June 2022
 client: Rafif Naufal
