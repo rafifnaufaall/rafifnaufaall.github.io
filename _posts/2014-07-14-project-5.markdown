@@ -5,7 +5,7 @@ date: 2014-07-14
 img: porto5.png
 alt: image-alt
 project-date: June 2022
-client: Febby
-category: Wedding Video
-description: Melakukan Video Editing Untuk Kebutuhan Engagement Video Client
+client: Mahasiswa UNDIP
+category: Campaign Video
+description: Melakukan Video Editing Untuk Campaign Sosial Dari Mahasiswa UNDIP Yaitu 4Hours4Change
 ---
